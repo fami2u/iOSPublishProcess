@@ -1,7 +1,7 @@
 ###iOS上线流程
 #### 具体步骤如下网站介绍的很清楚，一步一步来就可以。
  
-  [【简书】iOS 上线流程](https://github.com/fami2u)
+  [【简书】iOS 上线流程](http://www.jianshu.com/p/06c3c1b0bf9b)
   
 #### 一些容易遇到的问题。
  
